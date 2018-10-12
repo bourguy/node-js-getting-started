@@ -4,4 +4,4 @@ deploy:
   provider: heroku
   api_key:
     secure: "66f4956f-93f3-40b8-9624-561dd00c5101"
-  app: polar-island-19387
+  app: node-js-getting-started-b
